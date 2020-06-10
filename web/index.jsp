@@ -46,6 +46,7 @@
         <h1>Prueba</h1>
         <h1>PruebaXXXXXXXXXXXXX</h1>
         <h1>PruebaXXXXXXXXXXXXXaaaa</h1>
+        <h2>XXXXXXXXXXXXXXX</h2>
     </div>
 </div>
 </div>
